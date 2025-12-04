@@ -46,7 +46,16 @@ Aquí demuestro mi capacidad para **entender necesidades del negocio y entregar 
     [![Email](https://img.shields.io/badge/Email-sempiternalco2@hotmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sempiternalco2@hotmail.com)
 
 ---
-## 📊 Mis Estadísticas de GitHub
-![Estadísticas de GitHub de Juan](https://github-readme-stats.vercel.app/api?username=KiraxPlay&show_icons=true&theme=radical)
+---
 
-![Lenguajes más usados](https://github-readme-stats.vercel.app/api/top-langs/?username=KiraxPlay&layout=compact&theme=radical)
+## 📊 Mi Actividad en GitHub
+
+### 📈 Contribuciones Recientes
+![Calendario de contribuciones](https://ghchart.rshah.org/KiraxPlay)
+
+### 💻 Stack Tecnológico en Uso
+```python
+# Mi stack principal según mis repositorios públicos
+backend_stack = ["Python", "Django", "MySQL", "REST APIs"]
+mobile_stack = ["Flutter", "Dart", "SQLite"]
+frontend_tools = ["React", "TypeScript", "Vite", "HTML/CSS"]
