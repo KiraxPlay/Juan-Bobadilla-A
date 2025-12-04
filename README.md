@@ -1,6 +1,6 @@
 ### 👋 ¡Hola! Soy Juan Sebastián Bobadilla Amaya
 
-**🎓 Estudiante de Ingeniería de Software | 💻 Desarrollador Full-Stack & Móvil**
+**🎓 Estudiante de Ingeniería de Software | 💻 Desarrollador Full-Stack & Móvil en formacion**
 
 Apasionado por transformar problemas complejos en **software eficiente y escalable**. Actualmente en receso universitario, **disponible para proyectos freelance** donde pueda aportar mis habilidades en desarrollo backend, APIs y aplicaciones móviles integrales.
 
