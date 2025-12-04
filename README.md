@@ -46,6 +46,7 @@ Aquí demuestro mi capacidad para **entender necesidades del negocio y entregar 
     [![Email](https://img.shields.io/badge/Email-sempiternalco2@hotmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sempiternalco2@hotmail.com)
 
 ---
-## 📊 Mi Actividad & Código
-![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=KiraxPlay&show_icons=true&theme=radical&hide_border=true&count_private=true&hide_title=false)
-![Lenguajes más usados](https://github-readme-stats.vercel.app/api/top-langs/?username=KiraxPlay&layout=compact&theme=radical&hide_border=true&exclude_repo=KiraxPlay.github.io)
+## 📊 Mis Estadísticas de GitHub
+![Estadísticas de GitHub de Juan](https://github-readme-stats.vercel.app/api?username=KiraxPlay&show_icons=true&theme=radical)
+
+![Lenguajes más usados](https://github-readme-stats.vercel.app/api/top-langs/?username=KiraxPlay&layout=compact&theme=radical)
